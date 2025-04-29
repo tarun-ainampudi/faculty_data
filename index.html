@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Faculty Directory</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #search {
+      width: 100%;
+      max-width: 400px;
+      padding: 10px;
+      font-size: 16px;
+      margin: 0 auto 30px;
+      display: block;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    .card {
+      background: #fff;
+      padding: 15px;
+      margin: 10px auto;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      max-width: 600px;
+    }
+    .card h2 {
+      margin: 0 0 5px;
+      font-size: 20px;
+      color: #333;
+    }
+    .card p {
+      margin: 3px 0;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Faculty Directory</h1>
+  <input type="text" id="search" placeholder="Search by any field..." />
+
+  <div id="directory"></div>
+
+  <script>
+    let data = [];
+
+    fetch('fac_list.json')
+      .then(response => response.json())
+      .then(json => {
+        data = json;
+        displayData(data);
+      });
+
+    const searchInput = document.getElementById('search');
+    const container = document.getElementById('directory');
+
+    searchInput.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase();
+      const filtered = data.filter(entry =>
+        Object.values(entry).some(value =>
+          value.toLowerCase().includes(query)
+        )
+      );
+      displayData(filtered);
+    });
+
+    function displayData(entries) {
+      container.innerHTML = '';
+      entries.forEach(person => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <h2>${person.Name}</h2>
+          <p><strong>Designation:</strong> ${person.Designation}</p>
+          <p><strong>School:</strong> ${person.School}</p>
+          <p><strong>Employee ID:</strong> ${person.EmployeeId}</p>
+          <p><strong>Email:</strong> ${person.EmailId}</p>
+          <p><strong>Cabin:</strong> ${person.Cabin}</p>
+        `;
+        container.appendChild(card);
+      });
+    }
+  </script>
+</body>
+</html>

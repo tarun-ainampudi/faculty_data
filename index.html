@@ -174,16 +174,18 @@
       var parts = query.split(' ');
       var reg1 = ""
       if (parts.length === 1) {
-        reg1 = query + ".*";
+        reg1 = "\\b" + query + ".*";
         for (var i = 0; i < data.length; i++) {
-          if (data[i].Name.toLowerCase().match(reg1)) {
+          var str = data[i].Name.toLowerCase().split(".")[1] ? data[i].Name.toLowerCase().split(".")[1] : data[i].Name.toLowerCase().split(".")[0];
+          console.log(str);
+          if (str.match(reg1)) {
             filtered.push(data[i]);
           }
         }
       }
       else {
         for (var i = 0; i < parts.length; i++) {
-          reg1 += parts[i] + ".*";
+          reg1 += "\\b" + parts[i] + ".*";
         }
         for (var i = 0; i < data.length; i++) {
           if (data[i].Name.toLowerCase().includes(query)) {
@@ -216,7 +218,7 @@
           <p><strong>School:</strong> ${highlight(person.School, query)}</p>
           <p><strong>Employee ID:</strong> ${highlight(person.EmployeeId, query)}</p>
           <p><strong>Email:</strong> ${highlight(person.EmailId, query)}</p>
-          <div class="cabin-highlight">Cabin: ${highlight(person.Cabin, query)}</div>
+          <div class="cabin-highlight">${highlight(person.Cabin, query)}</div>
         `;
         container.appendChild(card);
       });

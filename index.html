@@ -147,7 +147,7 @@
     <div class="header-bar">
       <h1>Faculty Directory</h1>
       <div class="search-container">
-        <input type="text" id="search" placeholder="Search by Name" />
+        <input type="text" id="search" placeholder="Search by Name and Email" />
         <span id="countDisplay">count: 0</span>
       </div>
     </div>
@@ -177,8 +177,15 @@
         reg1 = "\\b" + query + ".*";
         for (var i = 0; i < data.length; i++) {
           var str = data[i].Name.toLowerCase().split(".")[1] ? data[i].Name.toLowerCase().split(".")[1] : data[i].Name.toLowerCase().split(".")[0];
-          console.log(str);
+          str = data[i].Name.toLowerCase().split(".")[2] ? data[i].Name.toLowerCase().split(".")[2] : str;
+          var mail = data[i].EmailId.toLowerCase().split("@")[0].split(".");
+          //mail1 = mail[1] ? mail[1] : "";
+          //console.log(mail);
+          //console.log(mail.length);
           if (str.match(reg1)) {
+            filtered.push(data[i]);
+          }
+          else if (mail[0].match(reg1)) {
             filtered.push(data[i]);
           }
         }
@@ -188,10 +195,15 @@
           reg1 += "\\b" + parts[i] + ".*";
         }
         for (var i = 0; i < data.length; i++) {
+          var mail = data[i].EmailId.toLowerCase().split("@")[0].split(".");
+          //mail1 = mail[1] ? mail[1] : "";
           if (data[i].Name.toLowerCase().includes(query)) {
             filtered.unshift(data[i]);
           }
           else if (data[i].Name.toLowerCase().match(reg1)) {
+            filtered.push(data[i]);
+          }
+          else if (mail[0].match(reg1)) {
             filtered.push(data[i]);
           }
         }

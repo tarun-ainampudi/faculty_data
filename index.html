@@ -17,8 +17,7 @@
       min-height: 100vh;
       display: flex;
       justify-content: center;
-      align-items: center;
-      padding: 20px;
+      padding: 0 20px;
     }
 
     .content-wrapper {
@@ -26,16 +25,22 @@
       max-width: 1200px;
     }
 
-    h1 {
+    .header-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      padding: 20px 0 10px;
       text-align: center;
+      backdrop-filter: blur(8px);
+    }
+
+    .header-bar h1 {
       font-size: 2.5rem;
-      margin-bottom: 30px;
       color: #3b3f5c;
+      margin-bottom: 10px;
     }
 
     #search {
-      display: block;
-      margin: 0 auto 30px auto;
       padding: 14px 20px;
       width: 100%;
       max-width: 600px;
@@ -57,10 +62,11 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: 20px;
+      padding: 30px 0;
     }
 
     .card {
-      background: rgba(255, 255, 255, 0.8);
+      background: rgba(255, 255, 255, 0.85);
       backdrop-filter: blur(6px);
       border-radius: 16px;
       padding: 20px;
@@ -92,7 +98,7 @@
 
     .cabin-highlight {
       display: inline-block;
-      padding: 4px 10px;
+      padding: 5px 12px;
       background: #3b82f6;
       color: #fff;
       font-size: 0.85rem;
@@ -111,19 +117,26 @@
       .card {
         width: 100%;
       }
+
+      .header-bar h1 {
+        font-size: 2rem;
+      }
     }
   </style>
 </head>
 <body>
   <div class="content-wrapper">
-    <h1>Faculty Directory</h1>
-    <input type="text" id="search" placeholder="Search by name, designation, or email..." />
+    <div class="header-bar">
+      <h1>Faculty Directory</h1>
+      <input type="text" id="search" placeholder="Search by name, designation, or email..." />
+    </div>
     <div id="directory" class="card-container"></div>
   </div>
 
   <script>
     let data = [];
 
+    // Fetch the JSON file
     fetch('fac_list.json')
       .then(response => response.json())
       .then(json => {

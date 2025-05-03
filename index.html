@@ -182,10 +182,11 @@
           //mail1 = mail[1] ? mail[1] : "";
           //console.log(mail);
           //console.log(mail.length);
+          var mail_str = mail.length > 1 ? mail[0].length > mail[1].length ? mail[0] : mail[1] : mail[0];
           if (str.match(reg1)) {
             filtered.push(data[i]);
           }
-          else if (mail[0].match(reg1)) {
+          else if (mail_str.match(reg1)) {
             filtered.push(data[i]);
           }
         }
@@ -197,13 +198,14 @@
         for (var i = 0; i < data.length; i++) {
           var mail = data[i].EmailId.toLowerCase().split("@")[0].split(".");
           //mail1 = mail[1] ? mail[1] : "";
+          var mail_str = mail.length > 1 ? mail[0].length > mail[1].length ? mail[0] : mail[1] : mail[0];
           if (data[i].Name.toLowerCase().includes(query)) {
             filtered.unshift(data[i]);
           }
           else if (data[i].Name.toLowerCase().match(reg1)) {
             filtered.push(data[i]);
           }
-          else if (mail[0].match(reg1)) {
+          else if (mail_str.match(reg1)) {
             filtered.push(data[i]);
           }
         }

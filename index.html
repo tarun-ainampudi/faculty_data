@@ -156,7 +156,131 @@
 
   <script>
     let data = [];
-
+	
+	var sample_data = [
+    {
+        "Name": "AASTHA MADONNA SATHE",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70531",
+        "EmailId": "aastha.m@vitap.ac.in",
+        "Cabin": "CB-326-G"
+    },
+    {
+        "Name": "Mr. ABHIRAM S",
+        "Designation": "Soft Skill Faculty",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "30058",
+        "EmailId": "sixphrase1@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. ADLA PADMA",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70697",
+        "EmailId": "padma.a@vitap.ac.in",
+        "Cabin": "229-C-CB"
+    },
+    {
+        "Name": "Dr. AJITH JUBILSON E",
+        "Designation": "Associate Professor Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70029",
+        "EmailId": "ajith.jubilson@vitap.ac.in",
+        "Cabin": "AB-2-G05"
+    },
+    {
+        "Name": "Ms. AKHILA GADDAM",
+        "Designation": "Soft Skill Faculty",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "30056",
+        "EmailId": "face1@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. AKSHAY KUMAR",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70752",
+        "EmailId": "akshay.kumar@vitap.ac.in",
+        "Cabin": "G-24-J-AB2"
+    },
+    {
+        "Name": "Dr. ALLAPATI RAJYA LAKSHMI",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70714",
+        "EmailId": "rajyalakshmi.a@vitap.ac.in",
+        "Cabin": "415-C-CB"
+    },
+    {
+        "Name": "Dr. AMGOTHU SHANTHI",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70698",
+        "EmailId": "shanthi.a@vitap.ac.in",
+        "Cabin": "427-A-CB"
+    },
+    {
+        "Name": "Dr. AMRENDRA SINGH GILL",
+        "Designation": "Assistant Professor Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70665",
+        "EmailId": "amrendra.gill@vitap.ac.in",
+        "Cabin": "153 Ab1"
+    },
+    {
+        "Name": "Dr. AMRITA PURAKAYASTHA",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70560",
+        "EmailId": "amrita.p@vitap.ac.in",
+        "Cabin": "AB-2-124-M"
+    },
+    {
+        "Name": "Dr. ANIL KUMAR NAYAK",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70717",
+        "EmailId": "anilkumar.nayak@vitap.ac.in",
+        "Cabin": "328-C-AB1"
+    },
+    {
+        "Name": "Dr. ANINDITA ROY",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70682",
+        "EmailId": "anindita.roy@vitap.ac.in",
+        "Cabin": "201-C CB"
+    },
+    {
+        "Name": "Dr. ANKUR PANDEY",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70719",
+        "EmailId": "ankur.p@vitap.ac.in",
+        "Cabin": "424-C-AB1"
+    },
+    {
+        "Name": "Dr. ANNAPUREDDY V N REDDY",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70721",
+        "EmailId": "vnreddy.a@vitap.ac.in",
+        "Cabin": "328-F-AB1"
+    },
+    {
+        "Name": "ANURAG DE",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70557",
+        "EmailId": "anurag.de@vitap.ac.in",
+        "Cabin": "CB-418-A"
+    }]
+	
+	window.addEventListener('DOMContentLoaded', () => {displayData(sample_data);});
+	
     // Fetch the JSON file
     fetch('fac_list_14_july_2025.json')
       .then(response => response.json())

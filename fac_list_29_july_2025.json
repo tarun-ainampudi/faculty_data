@@ -8,6 +8,14 @@
         "Cabin": "CB-326-G"
     },
     {
+        "Name": "Dr. ABHIK DIGAR",
+        "Designation": "Assistant Professor Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70758",
+        "EmailId": "abhik.digar@vitap.ac.in",
+        "Cabin": "429-J-CB"
+    },
+    {
         "Name": "Mr. ABHIRAM S",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
@@ -16,12 +24,20 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Ms. ADLA PADMA",
-        "Designation": "Assistant Professor",
+        "Name": "Dr. ADLA PADMA",
+        "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70697",
         "EmailId": "padma.a@vitap.ac.in",
         "Cabin": "229-C-CB"
+    },
+    {
+        "Name": "Dr. AJITH JUBILSON E",
+        "Designation": "Associate Professor Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70029",
+        "EmailId": "ajith.jubilson@vitap.ac.in",
+        "Cabin": "CB-407"
     },
     {
         "Name": "Ms. AKHILA GADDAM",
@@ -30,6 +46,14 @@
         "EmployeeId": "30056",
         "EmailId": "face1@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. AKSHAY KUMAR",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70752",
+        "EmailId": "akshay.kumar@vitap.ac.in",
+        "Cabin": "429-F-CB"
     },
     {
         "Name": "Dr. ALLAPATI RAJYA LAKSHMI",
@@ -80,6 +104,14 @@
         "Cabin": "201-C CB"
     },
     {
+        "Name": "Dr. ANJAIAH SHEELAM",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70763",
+        "EmailId": "anjaiah.sheelam@vitap.ac.in",
+        "Cabin": "429-K-CB"
+    },
+    {
         "Name": "Dr. ANKUR PANDEY",
         "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Electronics Engineering",
@@ -104,14 +136,6 @@
         "Cabin": "CB-418-A"
     },
     {
-        "Name": "A Phani Kumar",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70254",
-        "EmailId": "phanikumar.a@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Mr. ARIVARASAN A",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
@@ -126,6 +150,14 @@
         "EmployeeId": "70408",
         "EmailId": "arpana.venu@vitap.ac.in",
         "Cabin": "307-C-AB2"
+    },
+    {
+        "Name": "Dr. ARURU SAI KUMAR",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70744",
+        "EmailId": "saikumar.a@vitap.ac.in",
+        "Cabin": "164-AB1"
     },
     {
         "Name": "Dr. ASHISH GUPTA",
@@ -152,6 +184,14 @@
         "Cabin": "327-K-CB"
     },
     {
+        "Name": "Dr. BALUSA BHANU CHANDER",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70725",
+        "EmailId": "bhanuchander.b@vitap.ac.in",
+        "Cabin": "329-A-AB1"
+    },
+    {
         "Name": "Dr. BANDARU RAMA KRISHNA",
         "Designation": "Associate Professor Grade-2",
         "School": "School of Electronics Engineering",
@@ -160,16 +200,24 @@
         "Cabin": "143-AB1"
     },
     {
+        "Name": "Dr. BATTULA VENKATA SATISH BABU",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70734",
+        "EmailId": "satishbabu.bv@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
         "Name": "Dr. BEEBI NASEEBA",
-        "Designation": "Assistant Professor Sr. Grade-2",
+        "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70390",
         "EmailId": "beebi.naseeba@vitap.ac.in",
         "Cabin": "CB-415-I"
     },
     {
-        "Name": "Mr. BENSHA C. SHAJI",
-        "Designation": "Assistant Professor Grade-2",
+        "Name": "Dr. BENSHA C. SHAJI",
+        "Designation": "Assistant Professor Sr. Grade-1",
         "School": "VIT-AP School of Law",
         "EmployeeId": "70669",
         "EmailId": "bensha.shaji@vitap.ac.in",
@@ -200,12 +248,12 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Dr. CHILUKAMARI RAJESH",
-        "Designation": "Assistant Professor Sr. Grade-1",
+        "Name": "Mr. BURLA NAGARAJU",
+        "Designation": "Assistant Professor Junior on Contract",
         "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70645",
-        "EmailId": "rajesh.chilukamari@vitap.ac.in",
-        "Cabin": "CB-204-E"
+        "EmployeeId": "70728",
+        "EmailId": "nagaraju.burla@vitap.ac.in",
+        "Cabin": "424-J-AB1"
     },
     {
         "Name": "Dr. CHIRUGURI SHYAM KUMAR",
@@ -214,6 +262,14 @@
         "EmployeeId": "40009",
         "EmailId": "vish.visitingfaculty1@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. DEEPTHI GODAVARTHI",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70505",
+        "EmailId": "deepthi.g@vitap.ac.in",
+        "Cabin": "CB-327-C"
     },
     {
         "Name": "Dr. DEVARAKONDA NAGARAJU",
@@ -392,28 +448,12 @@
         "Cabin": "AB-1-425-H"
     },
     {
-        "Name": "DR.HABIBA KHATUN",
-        "Designation": "Assistant Professor Grade-1",
-        "School": "School of Advanced Sciences",
-        "EmployeeId": "70615",
-        "EmailId": "habiba.k@vitap.ac.in",
-        "Cabin": "AB-2-225-B"
-    },
-    {
         "Name": "DR. HELEN SHARMILA A",
         "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70607",
         "EmailId": "helensharmila.a@vitap.ac.in",
         "Cabin": "CB-408-D"
-    },
-    {
-        "Name": "Dr. DR. ILAKKIYA.L",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "School of Social Sciences and Humanities",
-        "EmployeeId": "70407",
-        "EmailId": "ilakkiya.l@vitap.ac.in",
-        "Cabin": "CB-407-K"
     },
     {
         "Name": "Dr. DRIPTA DE JOARDER",
@@ -440,28 +480,12 @@
         "Cabin": "AB-1-425-D"
     },
     {
-        "Name": "DR KAUSHIK N BHUYAN",
-        "Designation": "Assistant Professor Grade-1",
-        "School": "School of Social Sciences and Humanities",
-        "EmployeeId": "70558",
-        "EmailId": "kaushik.bhuyan@vitap.ac.in",
-        "Cabin": "AB-2-202-D"
-    },
-    {
         "Name": "DR. KOTTU DURGA PRASAD",
         "Designation": "Assistant Professor Grade-2",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70614",
         "EmailId": "durgaprasad.k@vitap.ac.in",
         "Cabin": "AB-2-124-L"
-    },
-    {
-        "Name": "DR LELLA KRANTHI",
-        "Designation": "Assistant Professor",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70548",
-        "EmailId": "kranthi.kl@vitap.ac.in",
-        "Cabin": "AB-1-329-A"
     },
     {
         "Name": "DR. LINET THOMAS",
@@ -584,14 +608,6 @@
         "Cabin": "CB-418-C"
     },
     {
-        "Name": "DR.SAISTA TABSSUM",
-        "Designation": "Assistant Professor Grade-2",
-        "School": "School of Advanced Sciences",
-        "EmployeeId": "70618",
-        "EmailId": "saista.tabssum@vitap.ac.in",
-        "Cabin": "AB-2-307-H"
-    },
-    {
         "Name": "DR.SANTANU NANDI",
         "Designation": "Assistant Professor Grade-2",
         "School": "School of Advanced Sciences",
@@ -664,28 +680,12 @@
         "Cabin": "AB2 1st Floor/124-A"
     },
     {
-        "Name": "DR S. S. SHANTHAKUMARI",
-        "Designation": "Professor Grade - 1",
-        "School": "VIT-AP School of Business",
-        "EmployeeId": "70551",
-        "EmailId": "shanthakumari.ss@vitap.ac.in",
-        "Cabin": "CB-418-J"
-    },
-    {
         "Name": "DR.SUBHASIS PANDA",
         "Designation": "Assistant Professor Grade-1",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70626",
         "EmailId": "subhasis.panda@vitap.ac.in",
         "Cabin": "CB-408-J"
-    },
-    {
-        "Name": "DR. SUHAIL AHMAD BHAT",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "VIT-AP School of Business",
-        "EmployeeId": "70586",
-        "EmailId": "suhail.a@vitap.ac.in",
-        "Cabin": "AB-1-425-A"
     },
     {
         "Name": "DR.SUMA KAMALESH GANDHIMATHI",
@@ -784,14 +784,6 @@
         "Cabin": "G-07-H-CB"
     },
     {
-        "Name": "Dr. E. RAJALAKSHMI",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70696",
-        "EmailId": "rajalakshmi.e@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Dr. FAROOQ AHMAD MIR",
         "Designation": "Assistant Professor Grade-2",
         "School": "School of Social Sciences and Humanities",
@@ -808,6 +800,14 @@
         "Cabin": "307-H-AB2"
     },
     {
+        "Name": "Dr. GANJI TEJASREE",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70761",
+        "EmailId": "tejasree.g@vitap.ac.in",
+        "Cabin": "429-H-CB"
+    },
+    {
         "Name": "GAURAV SONIK",
         "Designation": "Assistant Professor",
         "School": "School of Social Sciences and Humanities",
@@ -816,8 +816,8 @@
         "Cabin": "AB-2-225F"
     },
     {
-        "Name": "Ms. GAYATHRI DHARA",
-        "Designation": "Assistant Professor",
+        "Name": "Dr. GAYATHRI DHARA",
+        "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70722",
         "EmailId": "gayathri.d@vitap.ac.in",
@@ -848,20 +848,20 @@
         "Cabin": "CB-426-C"
     },
     {
-        "Name": "Gopinath M",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70267",
-        "EmailId": "gopinath.m@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Mr. GUNDIMEDA VENUGOPAL",
         "Designation": "Visiting Faculty",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "40008",
         "EmailId": "venugopal.g@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. GURUPRAKASH JAYABALASAMY",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70730",
+        "EmailId": "guruprakash.j@vitap.ac.in",
+        "Cabin": "111-AB1"
     },
     {
         "Name": "Dr. HAJARATHAIAH",
@@ -880,6 +880,14 @@
         "Cabin": "132-AB1"
     },
     {
+        "Name": "Dr. HIMANSHU VERMA",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70760",
+        "EmailId": "himanshu.verma@vitap.ac.in",
+        "Cabin": "429-I-CB"
+    },
+    {
         "Name": "Dr. IKKURTHI BHANU PRASAD",
         "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
@@ -888,12 +896,28 @@
         "Cabin": "111-AB1"
     },
     {
+        "Name": "Dr. ISHFAQ AHMAD THAKU",
+        "Designation": "Associate Professor Grade-1",
+        "School": "VIT-AP School of Business",
+        "EmployeeId": "70762",
+        "EmailId": "ishfaqahmad.thaku@vitap.ac.in",
+        "Cabin": "425-A-AB1"
+    },
+    {
         "Name": "Dr. JAGADISH CHANDRA MUDIGANTI",
         "Designation": "Professor Higher Academic Grade",
         "School": "School of Electronics Engineering",
         "EmployeeId": "70014",
         "EmailId": "mudiganti.jc@vitap.ac.in",
         "Cabin": "AB1 Faculty Area-4/157"
+    },
+    {
+        "Name": "Mr. JAYANTA PRATIHAR",
+        "Designation": "Assistant Professor",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70736",
+        "EmailId": "jayanta.pratihar@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Dr. JAYASHREE PRADHAN",
@@ -965,7 +989,15 @@
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70706",
         "EmailId": "aravind.k@vitap.ac.in",
-        "Cabin": "162-AB1"
+        "Cabin": "426-D-CB"
+    },
+    {
+        "Name": "Dr. KARROTHU ARAVIND",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70740",
+        "EmailId": "aravind.karrothu@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Dr. K. DEEPANJAN",
@@ -992,12 +1024,36 @@
         "Cabin": "224-C-AB2"
     },
     {
+        "Name": "Dr. KOMMERLA SIVA KUMAR",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70743",
+        "EmailId": "sivakumar.k@vitap.ac.in",
+        "Cabin": "204-E-CB"
+    },
+    {
         "Name": "Dr. KOSURI YELLARESWARARAO",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70656",
         "EmailId": "yellareswararao.k@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. KOTESWARARAO GORANTLA",
+        "Designation": "Assistant Professor Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70757",
+        "EmailId": "koteswarao.gorantla@vitap.ac.in",
+        "Cabin": "429-G-CB"
+    },
+    {
+        "Name": "Dr. KRISHNA NAIR J",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70748",
+        "EmailId": "krishnanair.j@vitap.ac.in",
+        "Cabin": "307-H-AB2"
     },
     {
         "Name": "Dr. KRITIKA BANSAL",
@@ -1024,6 +1080,14 @@
         "Cabin": "CB-326-D"
     },
     {
+        "Name": "Dr. LAKSHMINARAYANA JANJANAM",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70732",
+        "EmailId": "lakshminarayana.j@vitap.ac.in",
+        "Cabin": "167-AB1"
+    },
+    {
         "Name": "Dr. LAKSHMI SOWJANYA PALI",
         "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Advanced Sciences",
@@ -1040,20 +1104,28 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Ms. LOGANATHAN PAVITHRA",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70681",
-        "EmailId": "pavithra.l@vitap.ac.in",
-        "Cabin": "415-E CB"
-    },
-    {
         "Name": "Dr. MADALA GURU BRAHMAM",
         "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70708",
         "EmailId": "gurubrahmam.m@vitap.ac.in",
         "Cabin": "111, AB1"
+    },
+    {
+        "Name": "Mr. MADUGULA KIRAN KUMAR",
+        "Designation": "Assistant Professor Junior on Contract",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70724",
+        "EmailId": "kirankumar.m@vitap.ac.in",
+        "Cabin": "162-AB1"
+    },
+    {
+        "Name": "Dr. MAHESHUNI SANKUSH KRISHNA",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70731",
+        "EmailId": "sankushkrishna.m@vitap.ac.in",
+        "Cabin": "170-AB1"
     },
     {
         "Name": "Ms. MALAVIKA GANTA",
@@ -1080,6 +1152,14 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
+        "Name": "Ms. MANNEPULI SRUJANA",
+        "Designation": "Assistant Professor Junior on Contract",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70733",
+        "EmailId": "srujana.m@vitap.ac.in",
+        "Cabin": "326-F-AB1"
+    },
+    {
         "Name": "Mr. MANOJ D",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
@@ -1104,8 +1184,8 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Mr. MOHINDER SINGH. B",
-        "Designation": "Assistant Professor",
+        "Name": "Dr. MOHINDER SINGH. B",
+        "Designation": "Assistant Professor Sr. Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70690",
         "EmailId": "mohindersingh.b@vitap.ac.in",
@@ -1142,62 +1222,6 @@
         "EmployeeId": "70659",
         "EmailId": "moumita.saha@vitap.ac.in",
         "Cabin": "422-B-AB1"
-    },
-    {
-        "Name": "Dr. M. RAMMOHAN",
-        "Designation": "Visiting Faculty",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "40007",
-        "EmailId": "mallipeddi.ram@vitap.ac.in",
-        "Cabin": "329-F-AB1"
-    },
-    {
-        "Name": "MS ANJALI",
-        "Designation": "Assistant Professor",
-        "School": "VIT-AP School of Law",
-        "EmployeeId": "70543",
-        "EmailId": "anjali.y@vitap.ac.in",
-        "Cabin": "AB-2-415-H"
-    },
-    {
-        "Name": "Ms.Chafle Pratiksha Vasantrao",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70255",
-        "EmailId": "chaflepratiksha.v@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
-        "Name": "Ms.Jyothisri Vadlamudi",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70260",
-        "EmailId": "jyothisri.v@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
-        "Name": "Ms.Mamatha Bandaru",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70257",
-        "EmailId": "mamatha.bandaru@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
-        "Name": "Ms.Pidaparthy Vijaya",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70258",
-        "EmailId": "vijaya.pidaparthy@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
-        "Name": "Ms.Sravani Sravanam",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70259",
-        "EmailId": "sravani.sravanam@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Dr. NADIMINTI NAGAMANI",
@@ -1272,6 +1296,22 @@
         "Cabin": "415-J-AB2"
     },
     {
+        "Name": "Dr. NIHAR RANJAN NAYAK",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70766",
+        "EmailId": "nihar.ranjan@vitap.ac.in",
+        "Cabin": "430-J-CB"
+    },
+    {
+        "Name": "Dr. NIHAR RANJAN PRADHAN",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70504",
+        "EmailId": "nihar.pradhan@vitap.ac.in",
+        "Cabin": "CB-327-B"
+    },
+    {
         "Name": "Ms. NIVETHA J",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
@@ -1280,12 +1320,60 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
+        "Name": "Dr. N LAKSHMIPATHI ANANTHA",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70729",
+        "EmailId": "nlakshmipathi.anantha@vitap.ac.in",
+        "Cabin": "313-F-AB1"
+    },
+    {
+        "Name": "Dr. NUSRAT BEGUM",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70428",
+        "EmailId": "nusrat.begum@vitap.ac.in",
+        "Cabin": "CB-201-C"
+    },
+    {
+        "Name": "Ms. PAIDIPOGU SOWJANYA",
+        "Designation": "Assistant Professor Junior on Contract",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70738",
+        "EmailId": "sowjanya.paidipogu@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. PALACHARLA RAVI KUMAR",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70727",
+        "EmailId": "ravikumar.p@vitap.ac.in",
+        "Cabin": "424-I-AB1"
+    },
+    {
         "Name": "Dr. PAMULAPATI ASHOK REDDY",
         "Designation": "Associate Professor Grade-2",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70720",
         "EmailId": "ashokreddy.p@vitap.ac.in",
         "Cabin": "328-E-AB1"
+    },
+    {
+        "Name": "Dr. PARUL SAINI",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70765",
+        "EmailId": "parul.saini@vitap.ac.in",
+        "Cabin": "430-L-CB"
+    },
+    {
+        "Name": "Ms. PECHETTI MOUNIKA",
+        "Designation": "Assistant Professor Junior on Contract",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70726",
+        "EmailId": "mounika.p@vitap.ac.in",
+        "Cabin": "329-J-AB1"
     },
     {
         "Name": "Dr. PEMA CHODEN BHUTIA",
@@ -1302,6 +1390,14 @@
         "EmployeeId": "70667",
         "EmailId": "uppamma.posham@vitap.ac.in",
         "Cabin": "116-C-CB"
+    },
+    {
+        "Name": "Dr. PRACHI JAIN",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70764",
+        "EmailId": "prachi.jain@vitap.ac.in",
+        "Cabin": "429-L-CB"
     },
     {
         "Name": "Mr. PRADEEP B",
@@ -1344,14 +1440,6 @@
         "Cabin": "156-AB1"
     },
     {
-        "Name": "Prof.ABHISHEK THOMMANDRU",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "VIT-AP School of Law",
-        "EmployeeId": "70339",
-        "EmailId": "abhishek.20phd7063@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Aby Abraham",
         "Designation": "Assistant Professor Grade-2",
         "School": "School of Social Sciences and Humanities",
@@ -1390,14 +1478,6 @@
         "EmployeeId": "70418",
         "EmailId": "ajay.dagar@vitap.ac.in",
         "Cabin": "CB-116-E"
-    },
-    {
-        "Name": "Dr. PROF.AJITH JUBILSON E",
-        "Designation": "Associate Professor Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70029",
-        "EmailId": "ajith.jubilson@vitap.ac.in",
-        "Cabin": "AB-2-G05"
     },
     {
         "Name": "Prof. Akhila",
@@ -1648,14 +1728,6 @@
         "Cabin": "CB-204-F"
     },
     {
-        "Name": "Prof.BANOTH VASU NAIK",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70335",
-        "EmailId": "vasunaik.20phd7114@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Bappadittya Roy",
         "Designation": "Associate Professor Grade-2",
         "School": "School of Electronics Engineering",
@@ -1694,14 +1766,6 @@
         "EmployeeId": "70454",
         "EmailId": "bibhabbandhu.m@vitap.ac.in",
         "Cabin": "CB-205-F"
-    },
-    {
-        "Name": "Prof.BITRA JAYALAKSHMI",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70336",
-        "EmailId": "jayalakshmi.20phd7119@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Prof.Bolem Sai Chandana",
@@ -1782,14 +1846,6 @@
         "EmployeeId": "70189",
         "EmailId": "chandan.vishwas@vitap.ac.in",
         "Cabin": "AB-2-307-B"
-    },
-    {
-        "Name": "Prof.CHANDINI MUTTA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70345",
-        "EmailId": "chandini.20phd7140@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Prof.Chandu D S",
@@ -1912,14 +1968,6 @@
         "Cabin": "AB-2-202-G"
     },
     {
-        "Name": "Prof.Deepthi Godavarthi",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70505",
-        "EmailId": "deepthi.g@vitap.ac.in",
-        "Cabin": "CB-327-C"
-    },
-    {
         "Name": "Prof.DEVANGAM BANGARU RAJESH",
         "Designation": "Teaching Assitant's",
         "School": "School of Advanced Sciences",
@@ -1960,22 +2008,6 @@
         "Cabin": "AB1 3rd Floor/ 318"
     },
     {
-        "Name": "Prof.Divya Meena Sundaram",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70290",
-        "EmailId": "divyameena.s@vitap.ac.in",
-        "Cabin": "CB-407-E"
-    },
-    {
-        "Name": "Prof.D Khasim Vali",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70462",
-        "EmailId": "d.khasimvali@vitap.ac.in",
-        "Cabin": "CB-415-D"
-    },
-    {
         "Name": "Dr. Prof.Eswaraiah Rayachoti",
         "Designation": "Professor Grade - 1",
         "School": "School of Computer Science & Engineering",
@@ -2008,28 +2040,12 @@
         "Cabin": "AB-2-124-K"
     },
     {
-        "Name": "Prof.GANDIKOTA NAGA CHANDRIKA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70346",
-        "EmailId": "nagachandrika.20phd7142@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Ganesh Kotagiri",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70452",
         "EmailId": "ganesh.kotagiri@vitap.ac.in",
         "Cabin": "CB-205-D"
-    },
-    {
-        "Name": "Prof.GANESH KUMAR M",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70332",
-        "EmailId": "ganeshkumar.20phd7084@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Prof.Ganesh Reddy Karri",
@@ -2256,14 +2272,6 @@
         "Cabin": "AB-1-326-C"
     },
     {
-        "Name": "Prof.KODALI RADHA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70333",
-        "EmailId": "kodaliradha.20phd7093@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.KOMAL GOYAL",
         "Designation": "Teaching Assitant's",
         "School": "School of Advanced Sciences",
@@ -2488,14 +2496,6 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Prof.MEDISETTY PADMA DEVI",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Advanced Sciences",
-        "EmployeeId": "70314",
-        "EmailId": "padma.20phd7057@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.MIRIYALA NAVYA PRATYUSHA",
         "Designation": "Teaching Assitant's",
         "School": "School of Advanced Sciences",
@@ -2552,14 +2552,6 @@
         "Cabin": "CB-229-D"
     },
     {
-        "Name": "Prof.M SNEHITHA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "Registrar",
-        "EmployeeId": "70338",
-        "EmailId": "snehitha.20phd7066@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Mukkoti Maruthi Venkata Chalapathi",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Computer Science & Engineering",
@@ -2568,28 +2560,12 @@
         "Cabin": "CB-415-J"
     },
     {
-        "Name": "Prof.MUKKU PAVAN KUMAR",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70330",
-        "EmailId": "pavankumar.20phd7075@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof Musthaq",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
         "EmployeeId": "30026",
         "EmailId": "face1@vitap.ac.in",
         "Cabin": "AB1 3rd Floor/ 318"
-    },
-    {
-        "Name": "Dr. Prof.Muthu Krishnammal",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70434",
-        "EmailId": "muthu.krishnammal@vitap.ac.in",
-        "Cabin": "328-E-AB1"
     },
     {
         "Name": "Prof.M. VIJAYA LAKSHMI",
@@ -2704,22 +2680,6 @@
         "Cabin": "AB-1-328-G"
     },
     {
-        "Name": "Prof.Nihar Ranjan Pradhan",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70504",
-        "EmailId": "nihar.pradhan@vitap.ac.in",
-        "Cabin": "CB-327-B"
-    },
-    {
-        "Name": "Prof.Nusrat Begum",
-        "Designation": "Assistant Professor Grade-1",
-        "School": "School of Social Sciences and Humanities",
-        "EmployeeId": "70428",
-        "EmailId": "nusrat.begum@vitap.ac.in",
-        "Cabin": "CB-201-C"
-    },
-    {
         "Name": "Prof.Pandi Soundarya",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
@@ -2774,14 +2734,6 @@
         "EmployeeId": "70186",
         "EmailId": "peeyush.singh@vitap.ac.in",
         "Cabin": "AB-2-307-A"
-    },
-    {
-        "Name": "Prof.PENJARLA NAGA VENKATA NAVEEN KUMAR",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70334",
-        "EmailId": "naveenkumar.20phd7098@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Prof.Perumandla Karunakar",
@@ -3040,14 +2992,6 @@
         "Cabin": "CB-327-I"
     },
     {
-        "Name": "Prof.Ramkumar D",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70488",
-        "EmailId": "ramkumar.d@vitap.ac.in",
-        "Cabin": "CB-229-F"
-    },
-    {
         "Name": "Prof.Rasheda Parveen",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Social Sciences and Humanities",
@@ -3056,28 +3000,12 @@
         "Cabin": "AB-2-G24-C"
     },
     {
-        "Name": "Prof.RAVADA SIMHACHALAM",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70344",
-        "EmailId": "ravadasimhachalam.20phd7138@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Ravindra Dhuli",
         "Designation": "Professor Higher Academic Grade",
         "School": "School of Electronics Engineering",
         "EmployeeId": "70053",
         "EmailId": "ravindra.d@vitap.ac.in",
         "Cabin": "AB-1-313-A"
-    },
-    {
-        "Name": "Prof.Ravi Sankar Barpanda",
-        "Designation": "Associate Professor Grade-1",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70066",
-        "EmailId": "ravi.barpanda@vitap.ac.in",
-        "Cabin": "AB-2-G02-F"
     },
     {
         "Name": "Dr. Prof.Reeja S R",
@@ -3110,14 +3038,6 @@
         "EmployeeId": "70575",
         "EmailId": "riti.naik@vitap.ac.in",
         "Cabin": "AB-2-415-A"
-    },
-    {
-        "Name": "Prof.Rohit Kumar Das",
-        "Designation": "Assistant Professor Sr. Grade-2",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70291",
-        "EmailId": "rohitkumar.d@vitap.ac.in",
-        "Cabin": "CB-418-H"
     },
     {
         "Name": "Prof.Rohit Lorenzo",
@@ -3336,14 +3256,6 @@
         "Cabin": "AB1 Faculty Area"
     },
     {
-        "Name": "Prof.S.ASHA VARMA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70319",
-        "EmailId": "ashavarma.20phd7123@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.Satyanaryana Badeti",
         "Designation": "Associate Professor Grade-1",
         "School": "School of Advanced Sciences",
@@ -3388,6 +3300,14 @@
         "Designation": "Associate Professor Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "80073",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-13",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80081",
         "EmailId": "dean.scope@vitap.ac.in",
         "Cabin": "AB1 Faculty Area"
     },
@@ -3451,15 +3371,79 @@
         "Name": "Prof.SCOPE Dig Crs Faculty-20",
         "Designation": "Associate Professor Grade-1",
         "School": "School of Computer Science & Engineering",
-        "EmployeeId": "80081",
+        "EmployeeId": "80080",
         "EmailId": "dean.scope@vitap.ac.in",
         "Cabin": "AB1 Faculty Area"
     },
     {
-        "Name": "Prof.SCOPE Dig Crs Faculty-20",
+        "Name": "Prof.SCOPE Dig Crs Faculty-21",
         "Designation": "Associate Professor Grade-1",
         "School": "School of Computer Science & Engineering",
-        "EmployeeId": "80080",
+        "EmployeeId": "80082",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-22",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80083",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-23",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80084",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-24",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80085",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-25",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80086",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-26",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80087",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-27",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80088",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-28",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80089",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-29",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80090",
         "EmailId": "dean.scope@vitap.ac.in",
         "Cabin": "AB1 Faculty Area"
     },
@@ -3472,10 +3456,98 @@
         "Cabin": "AB1 Faculty Area"
     },
     {
+        "Name": "Prof.SCOPE Dig Crs Faculty-30",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80091",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-31",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80092",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-32",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80093",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-33",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80094",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-34",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80095",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-35",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80096",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-36",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80097",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-37",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80098",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-38",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80099",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-39",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80100",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
         "Name": "Prof.SCOPE Dig Crs Faculty-4",
         "Designation": "Associate Professor Grade-1",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "80004",
+        "EmailId": "dean.scope@vitap.ac.in",
+        "Cabin": "AB1 Faculty Area"
+    },
+    {
+        "Name": "Prof.SCOPE Dig Crs Faculty-40",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "80101",
         "EmailId": "dean.scope@vitap.ac.in",
         "Cabin": "AB1 Faculty Area"
     },
@@ -3624,28 +3696,12 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Prof.SHACHI SHAMBHAVI",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Social Sciences and Humanities",
-        "EmployeeId": "70337",
-        "EmailId": "shachishambhavi.20phd7117@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Dr. Prof.Shaik Kareemulla",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70474",
         "EmailId": "kareemulla.shaik@vitap.ac.in",
         "Cabin": "103-C-CB"
-    },
-    {
-        "Name": "Prof.SHAIK KHALEEL PASHA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Mechanical Engineering",
-        "EmployeeId": "70349",
-        "EmailId": "shaikkhaleel.p@vitap.ac.in",
-        "Cabin": "0"
     },
     {
         "Name": "Prof.Shalini Thakur",
@@ -3904,14 +3960,6 @@
         "Cabin": "AB-2-125-I"
     },
     {
-        "Name": "Dr. Prof.S Priyanka",
-        "Designation": "Associate Professor Grade-1",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70415",
-        "EmailId": "priyanka.s@vitap.ac.in",
-        "Cabin": "164-AB1"
-    },
-    {
         "Name": "Prof.SRILATHA RAAVI",
         "Designation": "Teaching Assitant's",
         "School": "School of Advanced Sciences",
@@ -3968,14 +4016,6 @@
         "Cabin": "AB-1-326-D"
     },
     {
-        "Name": "Prof.SUBHASREE PANDA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Advanced Sciences",
-        "EmployeeId": "70315",
-        "EmailId": "subhasree.20phd7065@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Dr. Prof.Sucharitha Jackson",
         "Designation": "Associate Professor Grade-2",
         "School": "School of Electronics Engineering",
@@ -4021,14 +4061,6 @@
         "School": "School of Advanced Sciences",
         "EmployeeId": "20008",
         "EmailId": "sudipta.21phd7033@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
-        "Name": "Prof.SUGUNAKAR MAMIDALA",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70343",
-        "EmailId": "sugunakarmamidala.20phd7113@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
     },
     {
@@ -4160,14 +4192,6 @@
         "Cabin": "AB1 3rd Floor/ 318"
     },
     {
-        "Name": "Prof.THIRUMALESH NIZAMPATNAM",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70340",
-        "EmailId": "thirumalesh.20phd7167@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Prof.T Ramana",
         "Designation": "Associate Professor Grade-1",
         "School": "School of Advanced Sciences",
@@ -4224,14 +4248,6 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Prof.U M Gopala Krishna",
-        "Designation": "Assistant Professor Grade-2",
-        "School": "VIT-AP School of Business",
-        "EmployeeId": "70481",
-        "EmailId": "gopalkrishna.um@vitap.ac.in",
-        "Cabin": "AB-1-410"
-    },
-    {
         "Name": "Prof.Usha Seshadri",
         "Designation": "Associate Professor Grade-1",
         "School": "VIT-AP School of Business",
@@ -4262,14 +4278,6 @@
         "EmployeeId": "70508",
         "EmailId": "nagarjuna.vasili@vitap.ac.in",
         "Cabin": "CB-327-L"
-    },
-    {
-        "Name": "Prof.Vatambeti Ramesh",
-        "Designation": "Professor Grade - 1",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70473",
-        "EmailId": "ramesh.v@vitap.ac.in",
-        "Cabin": "CB-128-I"
     },
     {
         "Name": "Prof.V Balasingh",
@@ -4696,6 +4704,22 @@
         "Cabin": "424-C-AB1"
     },
     {
+        "Name": "Dr. RAJASEKHAR BODDU",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70753",
+        "EmailId": "rajasekhar.boddu@vitap.ac.in",
+        "Cabin": "429-A-CB"
+    },
+    {
+        "Name": "Dr. RAJA SOLANKI",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70754",
+        "EmailId": "raja.solanki@vitap.ac.in",
+        "Cabin": "429-B-CB"
+    },
+    {
         "Name": "Mr. RAJKUMAR YESURAJ",
         "Designation": "Assistant Professor",
         "School": "School of Computer Science & Engineering",
@@ -4736,12 +4760,36 @@
         "Cabin": "159-AB1"
     },
     {
+        "Name": "Dr. RAMKUMAR D",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70488",
+        "EmailId": "ramkumar.d@vitap.ac.in",
+        "Cabin": "CB-229-F"
+    },
+    {
         "Name": "Dr. RAVI KUMAR POLURU",
         "Designation": "Assistant Professor Sr. Grade-2",
         "School": "School of Computer Science & Engineering",
         "EmployeeId": "70699",
         "EmailId": "ravikumar.poluru@vitap.ac.in",
-        "Cabin": "328-E-AB1"
+        "Cabin": "AB2-G02F"
+    },
+    {
+        "Name": "Dr. RAVI SANKAR BARPANDA",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70066",
+        "EmailId": "ravi.barpanda@vitap.ac.in",
+        "Cabin": "AB-2-G02-F"
+    },
+    {
+        "Name": "Dr. REDDIMALLA NARESH",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70767",
+        "EmailId": "naresh.reddimalla@vitap.ac.in",
+        "Cabin": "430-H-CB"
     },
     {
         "Name": "Dr. RENITA R",
@@ -4752,8 +4800,8 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Ms. RINI SINGH",
-        "Designation": "Assistant Professor",
+        "Name": "Dr. RINI SINGH",
+        "Designation": "Assistant Professor Grade-1",
         "School": "School of Social Sciences and Humanities",
         "EmployeeId": "70691",
         "EmailId": "rini.s@vitap.ac.in",
@@ -4768,8 +4816,8 @@
         "Cabin": "326-J-CB"
     },
     {
-        "Name": "Ms. RONALI MADHUSMITA SAHOO",
-        "Designation": "Assistant Professor",
+        "Name": "Dr. RONALI MADHUSMITA SAHOO",
+        "Designation": "Assistant Professor Grade-1",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70705",
         "EmailId": "ronali.sahoo@vitap.ac.in",
@@ -4781,6 +4829,22 @@
         "School": "School of Social Sciences and Humanities",
         "EmployeeId": "30045",
         "EmailId": "ethnus1@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. SAJAD NABI DAR",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70749",
+        "EmailId": "sajad.nabidar@vitap.ac.in",
+        "Cabin": "116-E-CB"
+    },
+    {
+        "Name": "Dr. SAMUKA MOHANTY",
+        "Designation": "Assistant Professor Sr. Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70741",
+        "EmailId": "samuka.mohanty@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
     },
     {
@@ -4798,14 +4862,6 @@
         "EmployeeId": "70674",
         "EmailId": "saneumesh.r@vitap.ac.in",
         "Cabin": "408-F-CB"
-    },
-    {
-        "Name": "Dr. SATPAL SINGH",
-        "Designation": "Assistant Professor Grade-1",
-        "School": "School of Advanced Sciences",
-        "EmployeeId": "70661",
-        "EmailId": "satpal.singh@vitap.ac.in",
-        "Cabin": "325-A-AB2"
     },
     {
         "Name": "Dr. SATRI VEERA KESALU",
@@ -4830,6 +4886,22 @@
         "EmployeeId": "70401",
         "EmailId": "selvakumar.s@vitap.ac.in",
         "Cabin": "AB-2-G05"
+    },
+    {
+        "Name": "Dr. SHAIK SUBHANI",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70735",
+        "EmailId": "subhani.shaik@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. SHAJAN JOSEPH",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70739",
+        "EmailId": "shajan.joseph@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
     },
     {
         "Name": "Dr. SHALINI",
@@ -4936,6 +5008,14 @@
         "Cabin": "204-H-CB"
     },
     {
+        "Name": "Dr. S SATHEESH KUMAR",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70747",
+        "EmailId": "satheeshkumar.s@vitap.ac.in",
+        "Cabin": "107-AB1"
+    },
+    {
         "Name": "Dr. SUBHANKAR SIL",
         "Designation": "Assistant Professor Grade-2",
         "School": "School of Advanced Sciences",
@@ -4984,12 +5064,28 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
+        "Name": "Dr. SUSMITA MAHATO",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70737",
+        "EmailId": "susmita.mahato@vitap.ac.in",
+        "Cabin": "Not Updated in VTOP"
+    },
+    {
         "Name": "Dr. S V GOMATHI",
         "Designation": "Assistant Professor Grade-1",
         "School": "School of Advanced Sciences",
         "EmployeeId": "70663",
         "EmailId": "gomathi.sv@vitap.ac.in",
         "Cabin": "325-C-AB2"
+    },
+    {
+        "Name": "Dr. SWATILEKHA SEN",
+        "Designation": "Assistant Professor Grade-2",
+        "School": "School of Social Sciences and Humanities",
+        "EmployeeId": "70750",
+        "EmailId": "swatilekha.sen@vitap.ac.in",
+        "Cabin": "115-E-CB"
     },
     {
         "Name": "Mr. Syed MD Ghayassuddin",
@@ -5000,12 +5096,12 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Dr. THATIPARTHY.BHARATH KUMAR",
-        "Designation": "Assistant Professor Sr. Grade-1",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70652",
-        "EmailId": "bharathkumar.t@vitap.ac.in",
-        "Cabin": "426-D-CB"
+        "Name": "Mr. TALHA UMAR",
+        "Designation": "Assistant Professor",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70756",
+        "EmailId": "talha.umar@vitap.ac.in",
+        "Cabin": "429-E-CB"
     },
     {
         "Name": "Dr. T RAMA THULASI",
@@ -5024,12 +5120,20 @@
         "Cabin": "Not Updated in VTOP"
     },
     {
-        "Name": "Velpula Vijaya Kumar",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Electronics Engineering",
-        "EmployeeId": "70269",
-        "EmailId": "vijayakumar.v@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
+        "Name": "Dr. U M GOPALA KRISHNA",
+        "Designation": "Assistant Professor Grade-1",
+        "School": "VIT-AP School of Business",
+        "EmployeeId": "70481",
+        "EmailId": "gopalkrishna.um@vitap.ac.in",
+        "Cabin": "AB-1-410"
+    },
+    {
+        "Name": "Dr. VARUNKUMAR ANANTHARAMAN",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70751",
+        "EmailId": "varunkumar.ka@vitap.ac.in",
+        "Cabin": "424-J-AB1"
     },
     {
         "Name": "Dr. VENKATA BHIKSHAPATHI CHENAM",
@@ -5040,20 +5144,28 @@
         "Cabin": "CB-103-E"
     },
     {
-        "Name": "Venkata Lakshmaiah Y",
-        "Designation": "Assistant Professor On Contract - Lab",
-        "School": "School of Computer Science & Engineering",
-        "EmployeeId": "70271",
-        "EmailId": "venkatalakshmaiah.y@vitap.ac.in",
-        "Cabin": "Not Updated in VTOP"
-    },
-    {
         "Name": "Ms. VIJAYAVALLI K",
         "Designation": "Soft Skill Faculty",
         "School": "School of Social Sciences and Humanities",
         "EmployeeId": "30050",
         "EmailId": "face1@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. VIVEK SHUKLA",
+        "Designation": "Assistant Professor Grade-2",
+        "School": "School of Advanced Sciences",
+        "EmployeeId": "70755",
+        "EmailId": "vivek.shukla@vitap.ac.in",
+        "Cabin": "429-C-CB"
+    },
+    {
+        "Name": "Dr. VIVEK UPADHYAYA",
+        "Designation": "Assistant Professor Sr. Grade-2",
+        "School": "School of Electronics Engineering",
+        "EmployeeId": "70745",
+        "EmailId": "vivek.upadhyaya@vitap.ac.in",
+        "Cabin": "329-F-AB1"
     },
     {
         "Name": "Dr. V LAKSHMI CHETANA",
@@ -5094,6 +5206,14 @@
         "EmployeeId": "70709",
         "EmailId": "sivareshma.y@vitap.ac.in",
         "Cabin": "Not Updated in VTOP"
+    },
+    {
+        "Name": "Dr. YELEPI USHA RANI",
+        "Designation": "Associate Professor Grade-1",
+        "School": "School of Computer Science & Engineering",
+        "EmployeeId": "70759",
+        "EmailId": "usharani.y@vitap.ac.in",
+        "Cabin": "429-D-CB"
     },
     {
         "Name": "Dr. YEPUGANTI KARUNA",
